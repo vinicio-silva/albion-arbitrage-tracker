@@ -2,7 +2,7 @@
 
 An advanced, real-time market arbitrage scanner and analytics tool for **Albion Online**. Built with React and TypeScript, this application interacts directly with the [Albion Online Data Project API](https://www.albion-online-data.com/) to find the most profitable item flips and trade routes across the Royal Continent and the Black Market.
 
-![App Preview](https://via.placeholder.com/800x450.png?text=Albion+Get+Rich+Preview)
+![App Preview]([https://via.placeholder.com/800x450.png?text=Albion+Get+Rich+Preview](https://github.com/user-attachments/assets/6dc1a58a-5394-4b7d-8254-b14a0fd5e8ff))
 
 ## ✨ Features
 
